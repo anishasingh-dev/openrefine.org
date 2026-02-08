@@ -8,6 +8,18 @@ sidebar_label: Introduction
 
 This manual is designed to comprehensively walk through every aspect of setting up and using OpenRefine, including every interface function and feature.
 
+## New to OpenRefine? Start here
+
+If you are new to OpenRefine, a good way to get started is to:
+
+- Install OpenRefine on your computer
+- Create your first project by importing a dataset
+- Explore your data using facets, filters, and sorting
+- Apply basic transformations to clean and structure your data
+
+These steps will help you become familiar with the interface and core concepts before moving on to more advanced features.
+
+
 <!--
 This documentation platform provides a separate version of the user manual for each version of OpenRefine (from 3.4.1 onwards) - if you're looking for a later version than 3.4.1, please select the correct version from the dropdown menu in the top bar of this page.
 -->
